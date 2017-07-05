@@ -9,7 +9,7 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-//      第三次更改后的
+//      第四次更改后的
         System.out.println("1504D第一组成员表:");
         System.out.println("陈庆");
         System.out.println("张惠行");
