@@ -14,5 +14,6 @@ public class TwoActivity extends AppCompatActivity {
     public void onCreate(Bundle savedInstanceState, PersistableBundle persistentState) {
         super.onCreate(savedInstanceState, persistentState);
 
+        //廉瑾雪  你个小破妞
     }
 }
